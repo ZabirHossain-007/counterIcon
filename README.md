@@ -1,0 +1,2 @@
+# counterIcon
+Counter jquery plugin
